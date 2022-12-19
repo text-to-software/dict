@@ -1,2 +1,2 @@
 # dict
-dictionary - wiki - keywords - dict.text2software.com
+dictionary - wiki - keywords - text.to.software.com
